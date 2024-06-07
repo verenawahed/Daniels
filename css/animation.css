@@ -1,0 +1,130 @@
+@keyframes tye-writer{
+    0%{
+        content: "Larry Daniels";
+    }
+    2%{
+        content: "l";
+    }
+    4%{
+        content: "la";
+    }
+    6%{
+        content: "larr";
+    }
+    8%{
+        content: "larry";
+    }
+    10%{
+        content: "Larry D";
+    }
+    12%{
+        content: "Larry Dan";
+    }
+    14%{
+        content: "Larry Danie";
+    }
+    16%{
+        content: "Larry Daniels";
+    }
+    18%{
+        content: "Larry Danie";
+    }
+    20%{
+        content: "Larry Dani";
+    }22%{
+        content: "Larry Dan";
+    }
+    24%{
+        content: "Larry D";
+    }
+    26%{
+        content: "Larry";
+    }
+    28%{
+        content: "Lar";
+    }
+    30%{
+        content: "La";
+    }
+    32%{
+        content: "L";
+    }
+    34%{
+        content: "Developer";
+    }
+    36%{
+        content: "D";
+    }
+    38%{
+        content: "De";
+    }
+    40%{
+        content: "Dev";
+    }
+    42%{
+        content: "Deve";
+    }
+    44%{
+        content: "Devel";
+    }
+    46%{
+        content: "Develo";
+    }
+    48%{
+        content: "Develop";
+    }
+    50%{
+        content: "Developer";
+    }
+    52%{
+        content: "Develope";
+    }
+    54%{
+        content: "Develop";
+    }
+    56%{
+        content: "Develo";
+    }
+    58%{
+        content: "Devel";
+    }
+    60%{
+        content: "Deve";
+    }
+    64%{
+        content: "De";
+    }
+    68%{
+        content: "D";
+    }
+    70%{
+        content: "Designer";
+    }
+    72%{
+        content: "De";
+    }
+    78%{
+        content: "Des";
+    } 80%{
+        content: "Desi";
+    } 82%{
+        content: "Desig";
+    } 84%{
+        content: "Design";
+    } 88%{
+        content: "Designe";
+    } 90%{
+        content: "Designer";
+    } 92%{
+        content: "Design";
+    } 94%{
+        content: "Desi";
+    } 
+    96%{
+        content: "Des";
+    } 98%{
+        content: "De";
+    } 100%{
+        content: "";
+    } 
+}
